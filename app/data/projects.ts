@@ -33,6 +33,7 @@ export const projects = [
     tech: ["Figma","UI/UX","Wireframe","Prototype"],
     featured: true,
   },
+
   {
     title: "Art Exhibition Website",
     description:
@@ -41,6 +42,7 @@ export const projects = [
     tech: ["HTML", "CSS", "JavaScript"],
     featured: true,
   },
+
   {
     title: "Jual Tanah App (UI/UX Design)",
     description:
@@ -49,6 +51,7 @@ export const projects = [
     tech: ["Figma", "UI/UX", "Prototype"],
     featured: true,
   },
+  
   {
     title: "Spotify User Behavior Analysis",
     description:

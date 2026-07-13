@@ -5,7 +5,7 @@ const certificates = [
   {
     title: "PT. Boga Indonesia Talenta",
     issuer: "Internship Program",
-    image: "/certificates/boga.jpg",
+    image: "/certificates/Boga.jpg",
   },
   {
     title: "TSA - Digitalent Scholarship",

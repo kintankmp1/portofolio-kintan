@@ -19,7 +19,7 @@ const experiences = [
     description: [
       "Developed a web-based employee management system used to manage employee records and administrative processes for 100+ employees, reducing manual data handling and improving operational efficiency.",
       "Built and enhanced an inventory management application to improve inventory tracking and reporting efficiency.",
-      "Supported daily IT operations,  user support, and data management.",
+      "Prepared technical documentation and supported IT administrative activities.",
     ],
   },
 ];

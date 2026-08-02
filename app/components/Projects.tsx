@@ -15,8 +15,7 @@ export default function Projects() {
         </h2>
 
         <p className="text-gray-400 mb-12">
-          Some academic and personal projects that demonstrate my skills in web
-          development, information systems, and UI/UX design.
+          Some academic and personal projects that demonstrate my skills.
         </p>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">

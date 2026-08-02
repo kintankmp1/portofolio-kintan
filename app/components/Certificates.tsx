@@ -8,6 +8,21 @@ const certificates = [
     image: "/certificates/Boga.jpg",
   },
   {
+    title: "Myskill - SQL Introduction for Data Analysis",
+    issuer: "Pelatihan",
+    image: "/certificates/myskill.jpg",
+  },
+  {
+    title: "Cisco Networking Academy - Data Analytics Essentials",
+    issuer: "Pelatihan",
+    image: "/certificates/cisco.jpg",
+  },
+  {
+    title: "Cognitive Class - Data Analysis with Python",
+    issuer: "Pelatihan",
+    image: "/certificates/cognitive.jpg",
+  },
+  {
     title: "TSA - Digitalent Scholarship",
     issuer: "Pelatihan",
     image: "/certificates/TSA.jpg",

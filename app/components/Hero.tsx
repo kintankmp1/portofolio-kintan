@@ -22,13 +22,12 @@ export default function Hero() {
           </h2>
 
           <p className="mt-2 text-blue-400">
-            Web Developer • IT QA • Data Analyst • UI/UX Designer
+            IT Administration • Information Systems • Data Analyst
           </p>
 
           <p className="mt-8 text-gray-400 leading-8">
-            Fresh graduate in Informatics from Jenderal Soedirman University with interests in IT, Web Development, Data Analysis, Quality Assurance, and Information 
-Systems. Experienced in academic projects and organizational activities that developed strong analytical, leadership, and teamwork 
-skills. Adaptable, detail-oriented, and eager to learn, with a strong commitment to contributing effectively in a dynamic professional 
+            Fresh graduate in Informatics from Jenderal Soedirman University with strong interests in IT Administration, Information Systems, and Data Management. Experienced in supporting administrative and operational data, preparing reports, and developing information systems through internships and academic projects. 
+            Detail-oriented with a strong commitment to contributing effectively in a dynamic professional 
           </p>
 
           <div className="mt-10 flex gap-4">

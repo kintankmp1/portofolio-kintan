@@ -15,11 +15,13 @@ export default function About() {
           <div>
             <p className="text-gray-300 leading-8">
               Hi, I'm Kintan Kinasih Mahaputri, a fresh graduate in Informatics from Jenderal Soedirman University. 
-              I am passionate about software development, data analytics, and software quality assurance. 
-              Through internships and academic projects, I have gained practical experience in building web applications using Laravel, PHP, JavaScript, Python, and MySQL. 
+              Fresh graduate in Informatics from Jenderal Soedirman University with strong interests in IT Administration, Information Systems, and Data Management. 
+              Experienced in supporting administrative and operational data, preparing reports, and developing information systems through internships and academic projects. 
+              Proficient in Microsoft Office, Google Workspace, SQL, and documentation, with strong analytical, organizational, and communication skills. 
+              Detail-oriented and committed to supporting administrative processes.
 
               <br /><br />
-              I enjoy turning ideas into functional digital solutions, solving real-world problems, and continuously learning new technologies. My goal is to grow as an IT professional while creating impactful and reliable software that delivers value to users.
+              I enjoy supporting IT operations, managing data and documentation, and improving administrative processes through technology. I am motivated to continuously learn, contribute to efficient information management, and grow as an IT professional while supporting organizational goals.
             </p>
           </div>
 

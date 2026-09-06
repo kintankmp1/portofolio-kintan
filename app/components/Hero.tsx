@@ -32,10 +32,12 @@ export default function Hero() {
           <div className="mt-10 flex gap-4">
 
             <a
-              href="#projects"
+              href="/cv/CV-Kintan Kinasih Mahaputri.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="rounded-xl bg-blue-600 px-6 py-3 hover:bg-blue-700 transition"
             >
-              View Projects
+              View CV
             </a>
 
             <a

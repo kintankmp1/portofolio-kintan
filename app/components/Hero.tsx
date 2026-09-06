@@ -22,12 +22,11 @@ export default function Hero() {
           </h2>
 
           <p className="mt-2 text-blue-400">
-            IT Administration • Information Systems • Data Analyst
+            Data Analytics • IT Administration • Information Systems
           </p>
 
           <p className="mt-8 text-gray-400 leading-8">
-            Fresh graduate in Informatics from Jenderal Soedirman University with strong interests in IT Administration, Information Systems, and Data Management. Experienced in supporting administrative and operational data, preparing reports, and developing information systems through internships and academic projects. 
-            Detail-oriented with a strong commitment to contributing effectively in a dynamic professional 
+            Informatics graduate from Jenderal Soedirman University with strong expertise in Data Analytics, IT Administration, and Information Systems. Experienced in supporting digital operations, managing end-to-end data workflows, and developing web-based management applications. Detail-oriented and committed to ensuring data validity, system reliability, and operational excellence.
           </p>
 
           <div className="mt-10 flex gap-4">

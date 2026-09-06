@@ -29,7 +29,7 @@ const certificates = [
   },
   {
     title: "Informatics Student Association",
-    issuer: " Staf - Student Resources Development Division",
+    issuer: "Staf - Student Resources Development Division",
     image: "/certificates/psdm.jpg",
   },
   {
@@ -67,7 +67,6 @@ const certificates = [
     issuer: "Event Division",
     image: "/certificates/imakaba.png",
   },
-  
 ];
 
 export default function Certificates() {
@@ -84,32 +83,36 @@ export default function Certificates() {
 
         <div className="grid md:grid-cols-3 gap-6">
 
-          {certificates.map((certificate) => (
+          {certificates.map((certificate, index) => (
 
             <div
-              key={certificate.title}
-              className="rounded-xl bg-slate-900 border border-slate-700 p-6"
+              key={`${certificate.title}-${index}`}
+              className="rounded-xl bg-slate-900 border border-slate-700 p-6 flex flex-col justify-between"
             >
-              <Award
-                size={40}
-                className="text-blue-500 mb-5"
-              />
+              <div>
+                <Award
+                  size={40}
+                  className="text-blue-500 mb-5"
+                />
 
-              <h3 className="font-semibold text-xl">
-                {certificate.title}
-              </h3>
+                <h3 className="font-semibold text-xl">
+                  {certificate.title}
+                </h3>
 
-              <p className="text-gray-400 mt-2">
-                {certificate.issuer}
-              </p>
+                <p className="text-gray-400 mt-2 text-sm">
+                  {certificate.issuer}
+                </p>
+              </div>
 
-              <Image
-                src={certificate.image}
-                alt={certificate.title}
-                width={400}
-                height={250}
-                className="rounded-lg object-cover mt-4"
-              />
+              <div className="mt-4">
+                <Image
+                  src={certificate.image}
+                  alt={certificate.title}
+                  width={400}
+                  height={250}
+                  className="rounded-lg object-cover w-full h-48"
+                />
+              </div>
 
             </div>
 

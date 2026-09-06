@@ -6,10 +6,10 @@ const experiences = [
     title: "Internship",
     company: "PT. Boga Indonesia Talenta",
     description: [
-      "Managed and processed daily orders from 9 outlets, ensuring timely order fulfillment and smooth operational workflows.",
-      "Maintained more than 300 daily transaction records using Microsoft Excel and Google Sheets, improving data accuracy and operational efficiency.",
-      "Prepared over 20 weekly reports and order summaries to support performance monitoring and management decision-making.",
-      "Designed UI/UX solutions for the Sales Admin application, enhancing usability and supporting business process efficiency.",
+      "Managed and processed daily digital orders from 9 outlets, ensuring timely fulfillment and smooth operational workflows.",
+      "Maintained over 300 daily transaction records using Microsoft Excel and Google Sheets, improving data accuracy and administrative efficiency.",
+      "Prepared over 20 weekly reports and order summaries to support operational performance monitoring and decision-making.",
+      "Designed UI/UX solutions and support documentation for the Sales Admin application, enhancing usability and business process efficiency.",
     ],
   },
   {
@@ -17,9 +17,9 @@ const experiences = [
     title: "Internship",
     company: "PT. Sharp Semiconductor Indonesia",
     description: [
-      "Developed a web-based employee management system used to manage employee records and administrative processes for 100+ employees, reducing manual data handling and improving operational efficiency.",
-      "Built and enhanced an inventory management application to improve inventory tracking and reporting efficiency.",
-      "Prepared technical documentation and supported IT administrative activities.",
+      "Developed and supported a web-based employee management system used to handle records and operational administrative processes for 100+ employees, reducing manual data handling.",
+      "Built and enhanced an inventory management application to optimize tracking, reporting efficiency, and IT administration support.",
+      "Prepared technical documentation and supported daily IT administrative activities and operational workflows.",
     ],
   },
 ];
